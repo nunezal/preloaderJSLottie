@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://nunezal.github.io/preloaderJSLottie/JVGIsylS3F-3.json',
+        path: 'https://nunezal.github.io/preloaderJSLottie/blueDotLoading.json',
     });
 }
 
